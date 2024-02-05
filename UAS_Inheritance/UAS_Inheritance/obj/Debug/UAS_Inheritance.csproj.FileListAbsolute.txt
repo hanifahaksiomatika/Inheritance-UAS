@@ -1,0 +1,6 @@
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\bin\Debug\UAS_Inheritance.exe.config
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\bin\Debug\UAS_Inheritance.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\bin\Debug\UAS_Inheritance.pdb
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\obj\Debug\UAS_Inheritance.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\obj\Debug\UAS_Inheritance.exe
+C:\Hani\smt 2\progamming\UAS PEMROGRAMAN\Tugas no 1\UAS_Inheritance\UAS_Inheritance\obj\Debug\UAS_Inheritance.pdb
